@@ -144,17 +144,17 @@ Esse processo mostrou a importância de **iterar sobre o resultado gerado pela I
 
 ### Visão geral
 
-> Inserir aqui o print da dashboard.
+<img width="1374" height="909" alt="image" src="https://github.com/user-attachments/assets/46d50e3f-74d9-4ecd-be69-da54a2079e8e" />
 
 ### Exemplo com filtros aplicados
 
-> Inserir aqui um print da dashboard com um ou mais filtros selecionados.
+<img width="1479" height="874" alt="image" src="https://github.com/user-attachments/assets/82890f28-2f93-4b18-9dde-86a75dfd99d4" />
 
 ## 🌐 Dashboard publicada
 
 Acesse a versão online:
 
-**[Inserir aqui o link do GitHub Pages]**
+https://ingridgabi.github.io/porsche-sales-dashboard/
 
 ## 📁 Repositório
 
